@@ -29,7 +29,7 @@ body *{
 }
 
 .left-login h1{
-    color: git rgb(46, 30, 48);
+    color: rgb(46, 30, 48);
     font-size: 3rem;
     margin: 0;
 }
@@ -87,7 +87,7 @@ body *{
 }
 
 .text-field label{
-    color: rgb(230, 226, 246);
+    color: rgb(54, 41, 107);
     margin-bottom: 10px;
 }
 
